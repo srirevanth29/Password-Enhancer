@@ -1,0 +1,15 @@
+# Ignore the virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore logs and personal data
+logs/
+user_data.json
+*.log
+
+# Ignore system files
+.DS_Store
+*.swp
